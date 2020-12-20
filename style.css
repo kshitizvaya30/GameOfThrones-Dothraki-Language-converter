@@ -1,0 +1,69 @@
+body{
+    margin: 0rem;
+    background-image: url("/images/GOT1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: static;
+}
+
+
+.textarea {
+    width: 27%;
+    height: 20vh;
+    display: block;
+    margin: 1rem;
+    padding: 1rem;
+    float:left;
+    position: absolute;
+    top: 20rem;
+    border-radius: 1rem;
+    background-color: #D3D3D3;
+
+}
+
+#output{
+    border: 1px solid black;
+    background-color: #D3D3D3;
+    height: 20vh;
+    width: 15%;
+    margin: 1rem;
+    padding: 1rem;
+    padding-left: 10rem;
+    position: relative;
+    top: 160px;
+    float: right;
+    border-radius: 1rem;
+}
+
+
+.nav-bar{
+    background-color:black;
+    color: white;
+    padding: 2rem;
+    width: 100%;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    
+}
+
+.btn-primary{
+    font-size: x-large;
+    position: relative;
+    left: 46%;
+    top: 300px;
+    border-radius: 1rem;
+
+
+}
+
+.output-line{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-size: x-large;
+    font-weight: bold;
+    position: relative;
+    left: 990px;
+    top: 160px;
+}
+
