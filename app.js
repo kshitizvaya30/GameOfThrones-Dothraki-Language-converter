@@ -1,3 +1,5 @@
+alert("YOU HAVE ENTERED INTO THE DOTHRAKI'S AREA , BE AWARE . YOU CAN USE THIS LANGUAGE CONVERTER TO TALK TO THEM ");
+
 var btnTranslate = document.querySelector("#btn-translate");
 var txtInput = document.querySelector("#txt-input");
 var outputDiv = document.querySelector("#output");
